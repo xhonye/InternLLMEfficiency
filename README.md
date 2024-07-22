@@ -19,5 +19,5 @@
 待补充安装说明和使用方法。
 
 ## 反馈与贡献
-
+跳转 GitHub 仓库（https://github.com/InternLM/Tutorial）
 欢迎在 GitHub 上提交 issue 或 pull request，共同改进本项目！
