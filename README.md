@@ -1,6 +1,7 @@
 # InternLLMEfficiency
  基于书生LLM的高效能人士助手项目
 # 高效能人士助手项目
+<img width="509" alt="屏幕截图 2024-07-22 160307" src="https://github.com/user-attachments/assets/8bfa195d-2dd6-414a-9413-d47de0d57222">
 
 本项目是基于书生LLM的高效能人士助手，旨在应用各类行为学、经济学、运动学等书籍和材料，为用户提供健康、职业生涯、家庭和投资四个维度的建议和最优安排。
 
