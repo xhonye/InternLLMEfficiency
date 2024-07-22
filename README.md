@@ -19,5 +19,4 @@
 待补充安装说明和使用方法。
 
 ## 反馈与贡献
-跳转 GitHub 仓库（https://github.com/InternLM/Tutorial）
-欢迎在 GitHub 上提交 issue 或 pull request，共同改进本项目！
+基于 InternLM 的大模型项目，欢迎大家也来参加书生大模型实战营项目（http://github.com/internLM/tutorial）
